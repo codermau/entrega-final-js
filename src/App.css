@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #fff;
+}
+
+.cartLogo {
+    width: 2.5rem;
+    height: 2.5rem;
+}
+
+.cartDiv{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+body {
+    margin: 25px;
+    background-image: radial-gradient( rgb(0, 0, 0),rgb(34, 10, 62));
+    text-align: center;
+}
+
+.pp {
+    text-align: center;
+}
+
+input {
+    color:rgb(0, 0, 0);
+}
